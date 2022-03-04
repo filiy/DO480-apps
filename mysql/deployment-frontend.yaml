@@ -5,6 +5,7 @@ metadata:
   labels:
     app: todonodejs
     name: frontend
+    updatethis: maybe
   namespace: mysql
 spec:
   replicas: 1
